@@ -1,4 +1,4 @@
-# ManviAggarwal-demo
+c# ManviAggarwal-demo
 This is my Demo Git reppository
 <br>
-Author- Manvi Aggarwal
+Author- Manvi Aggarwal (Student)
